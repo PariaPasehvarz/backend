@@ -1,0 +1,7 @@
+Bank Account with highest balance:
+
+Owner First Name: yogxkqntajaqvb
+Owner Last Name: utdaxhyycjvlpyjlpbqzliytqbroxuoobssuivrwgwlutabhnktuq
+Owner National Code: 8116514216
+Account IBAN: 110723926881418521548126
+Account Balance: 999987895875420699201957

@@ -1,0 +1,3 @@
+Bank Accounts which their balance is less than 1 millions or bigger than 2 millions
+Execution time: 0.30675387382507324
+
